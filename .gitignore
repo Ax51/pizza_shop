@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# VS Code settings file
+*.code-workspace
+
 # testing
 /coverage
 
